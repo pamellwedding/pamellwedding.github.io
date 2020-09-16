@@ -205,7 +205,7 @@
                     minutes = parseInt(secondsLeft / 60, 10);
                     seconds = parseInt(secondsLeft % 60, 10);
                 } else {
-                    days = 0;
+                    days = 1;
                     hours = 0;
                     minutes = 0;
                     seconds = 0;
